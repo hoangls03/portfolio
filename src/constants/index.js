@@ -5,7 +5,7 @@ import project3 from "../assets/projects/project-3.jpg";
 
 export const HERO_CONTENT = `I'm a passionate software engineer skilled in crafting robust web applications with React, Next.js, Node.js, and MySQL. My aim is to create innovative solutions that drive business growth and enhance user experiences. Eager to work on diverse projects with the latest technologies in an established IT company, I'm a fast learner committed to perpetual skill improvement and technological innovation.`;
 
-export const ABOUT_TEXT = `I am Hoang Le. I am currently a second year Computer science student at Dalhousie University. I am in Dalhousie ICPC team and I will represent Dalhousie University particpate in ICPC 2025. I am heavily passionate about tech and algorithm. I am currently on the path to be a full stack Software Engineer and head to the world final of the International Collegiate Programming Contest (ICPC).`;
+export const ABOUT_TEXT = `I am Hoang Le, a second-year Computer Science student at Dalhousie University. As a member of the Dalhousie ICPC team, I am proud to represent our university in the ICPC 2025. With a strong passion for technology, algorithms and AI/machine learning, I am committed to becoming a full-stack Software Engineer and aiming for the world finals of the International Collegiate Programming Contest (ICPC).`;
 
 export const EXPERIENCES = [
   {
