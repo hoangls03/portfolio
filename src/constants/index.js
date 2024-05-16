@@ -60,5 +60,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Halifax, Nova Scotia, Canada ",
   phoneNo: "",
-  email: "syhoangloe@gmail.com",
+  email: "hoang@dal.ca",
 };
