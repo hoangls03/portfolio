@@ -1,13 +1,23 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
 
 
 export const HERO_CONTENT = `I'm a passionate software engineer skilled in crafting robust web applications with React, Next.js, Node.js, and MySQL. My aim is to create innovative solutions that drive business growth and enhance user experiences. Eager to work on diverse projects with the latest technologies in an established IT company, I'm a fast learner committed to perpetual skill improvement and technological innovation.`;
 
-export const ABOUT_TEXT = `I am Hoang Le, a second-year Computer Science student at Dalhousie University. As a member of the Dalhousie ICPC team, I am proud to represent our university in the ICPC 2025. With a strong passion for technology, algorithms and AI/machine learning, I am committed to becoming a full-stack Software Engineer and aiming for the world finals of the International Collegiate Programming Contest (ICPC).`;
+export const ABOUT_TEXT = `I am Hoang Le, a third-year Computer Science student at Dalhousie University. As a member of the Dalhousie ICPC team, I am proud to represent our university in the ICPC 2026. With a strong passion for technology, algorithms and AI/machine learning, I am committed to becoming a full-stack Software Engineer and aiming for the world finals of the International Collegiate Programming Contest (ICPC).`;
 
 export const EXPERIENCES = [
+  {
+    year: "Sep 2024 - Dec 2024",
+    role: "Student Software Developer",
+    company: "CarteNav Solutions",
+    description: `Algorithm design for and assessment of assigned features.
+    Development of software features including coding, test and documentation.
+    Tracking and reporting of assigned features.`,
+    technologies: ["Java", "TypeScript", "SpringBoot", "SQL", "AWS", "Angular", "Kubernetes", "Docker","DBeaver", "HTML", "CSS"],
+  },
   {
     year: "Aug 2023 - May 2024",
     role: "Teaching Assistant/Marker for Introduction to Computer Systems course",
@@ -34,6 +44,13 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Daltweets",
+    image: project4,
+    description: 
+      "Develop a social media website for Dalhousie University students using Vite ReactJS, Tailwind CSS, engineered the backend using Spring Boot and MySQL.",
+    technologies: ["HTML","CSS","React","Java","JavaScript","SpringBoot","SQL","MySQL",],
+  },
   {
     title: "Vet Med Math website",
     image: project1,
